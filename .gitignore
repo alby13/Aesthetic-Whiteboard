@@ -1,0 +1,5 @@
+__pycache__/
+whiteboard_data.json
+*.pyc
+.env
+venv/
